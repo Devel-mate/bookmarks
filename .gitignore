@@ -1,0 +1,7 @@
+bm_env
+**/*.env
+bookmarks/bookmarks/settings.py
+bookmarks/bookmarks/__pycache__/
+bookmarks/db.sqlite3
+bookmarks/media/
+*.log
